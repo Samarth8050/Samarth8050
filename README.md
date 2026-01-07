@@ -24,7 +24,7 @@ I enjoy simplifying complex datasets into **easy-to-understand dashboards** 🚀
 
 ## 🌐 Socials  
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_samarthh_04)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/[Samarth%20Mirajkar](https://www.linkedin.com/in/samarth-mirajkar-34b595280))  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samarth-mirajkar-34b595280) 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:samarthmirajkar8050@gmail.com)
 
 ---
