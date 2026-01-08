@@ -1,4 +1,4 @@
-# 💫 About Me  
+# Heyy 👋, I’m Samarth Mirajkar
 
 👋 Hi! I’m a **Data Analytics Fresher** passionate about turning raw data into **clear, meaningful insights** 📊  
 
